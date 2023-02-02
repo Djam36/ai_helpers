@@ -73,3 +73,41 @@ ChatGPT даст подробные инструкции с примерами.
 
 Да, с этим ChatGPT тоже справится.
 ![images](/assets/code_help.jpg)
+
+## Developers tools
+Утилиты которые так или иначе помогут в разработке основанные на AI
+
+- [AutoRegex](https://www.autoregex.xyz/?ref=futurepedia)автоматическое создание    регулярных выражений
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=futurepedia)инструмент для анализа и предсказания кода на Amazon
+- [Teachable Machine](https://teachablemachine.withgoogle.com/?ref=futurepedia)инструмент для обучения машины на основе взаимодействия с пользователем
+- [Stable Diffusion](https://stability.ai/?ref=futurepedia)устойчивый метод распространения информации в нейронных сетях
+- [Rtutor](http://rtutor.ai/?ref=futurepedia)инструмент для создания интерактивных онлайн-уроков
+- [AI CLI](https://github.com/abhagsain/ai-cli?ref=futurepedia)командная строка для управления искусственным интеллектом
+- [Valyr](https://valyr.vercel.app/?ref=futurepedia)фреймворк для создания и обучения нейронных сетей
+- [Shaped](https://www.shaped.ai/?ref=futurepedia)инструмент для изменения формы данных для их использования в нейронных сетях
+- [Retune](https://retune.so/?ref=futurepedia)инструмент для переобучения моделей нейронных сетей
+- [PromptLayer](https://promptlayer.com/?ref=futurepedia)слой для управления предложениями в нейронных сетях
+- [Bria](https://bria.ai/?ref=futurepedia)инструмент для генерации ответов в чат-ботах
+- [Nuclia](https://nuclia.com/?ref=futurepedia)интегрированная среда разработки
+- [Chatbotkit](https://chatbotkit.com/?ref=futurepedia) инструмент для создания чат-ботов.
+- [GptDuck](https://www.gptduck.com/?ref=futurepedia)библиотека для генерации текста с использованием GPT-3.
+- [Buildt](https://www.buildt.ai/?ref=futurepedia)платформа для создания моделей искусственного интеллекта.
+- [HTTPie AI](https://httpie.io/?utm_source=futurepedia)инструмент для работы с REST API искусственного интеллекта
+- [Textomap](https://www.textomap.com/?ref=futurepedia)Создает визуализацию карты текста
+- [Convai](https://www.convai.com/?ref=futurepedia)Реализует чат-боты на основе нейронных сетей.
+- [Riku.ai](https://riku.ai/?ref=futurepedia)Обучает модель нейронной сети на большом массиве данных.
+- [Mintlify](https://mintlify.com/?ref=futurepedia)Предоставляет интерфейс для легкой интеграции искусственного интеллекта в приложения.
+- [GPUX.AI](https://gpux.ai/?ref=futurepedia)Оптимизирует использование GPU для обучения и запуска моделей нейронных сетей.
+- [Lightning AI](https://lightning.ai/?ref=futurepedia)Облегчает разработку и обучение моделей нейронных сетей.
+- [Amper](https://score.ampermusic.com/?ref=futurepedia)Генерирует музыку и звуковые эффекты на основе нейронных сетей
+- [Tinq.ai-NLP API](https://tinq.ai/?ref=futurepedia)Предоставляет API для обработки текстовой информации с использованием нейронных сетей.
+- [Pipeline AI](https://www.pipeline.ai/?ref=futurepedia)Ускоряет и упрощает процесс разработки и внедрения моделей нейронных сетей.
+- [Liner.ai](https://liner.ai/?ref=futurepedia)автоматическое исследование текста и выявление сущностей.
+- [Whisper](https://github.com/openai/whisper?ref=futurepedia)приложение для шифрования сообщений.
+- [SyntheticAldata](https://syntheticaidata.com/?ref=futurepedia)генерация синтетических данных.
+- [Shumai(Meta)](https://github.com/facebookresearch/shumai?ref=futurepedia) метаплатформа для управления моделями и данными.
+- [Moonbeam Exchange](https://moonbeam.ai/?ref=futurepedia)платформа для торговли альтернативными активами
+- [RunPod](https://www.runpod.io/?ref=futurepedia)облачный провайдер для запуска контейнеров
+- [Stenography](https://stenography.dev/?ref=futurepedia)приложение для скрытой передачи информации в изображениях.
+- [Dust](https://dust.tt/?ref=futurepedia)бесплатный и простой в использовании шифратор.
+- [CSM](https://csm.ai/?ref=futurepedia)клиентская менеджмент система.
