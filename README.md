@@ -2,7 +2,7 @@
 
 ### Google chrome extentions
 
-[AIPRM for ChatGPT] (<https://clc.to/AIPRM_for_ChatGPT>)
+[AIPRM for ChatGPT](<https://clc.to/AIPRM_for_ChatGPT>)
 добавляет в ChatGPT тщательно отобранные шаблоны
 
 Далеко не каждый сейчас умеет правильно задавать вопросы нейронке, поэтому пусть расширение AIPRM сделает за вас всю работу.
@@ -10,4 +10,4 @@
 Среди шаблонов представлены запросы ChatGPT для SEO, разработки, маркетинга, SaaS и другого.
 
 Все запросы разделены по категориям, а также есть удобная сортировка по популярности.
-(/assets/AIRPM.jpg)
+(/assets/AIPRM.jpg)
